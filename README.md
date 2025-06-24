@@ -1,2 +1,2 @@
 # Hotta-TowerOfFantasySDK
-Hotta-TowerOfFantasySDK by RikkoMatsumatoOfficial
+WIP!!!(ONLY INSTALLER!!!)
